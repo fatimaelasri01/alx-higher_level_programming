@@ -1,9 +1,9 @@
 # 0x00. Python - Hello, World
 ---
- -Exploring Python interpreter usage
- -Utilizing print statements for text and variable display
- -Understanding string manipulation, indexing, and slicing in Python
- -Ensuring code conformity with pycodestyle
+ - Exploring Python interpreter usage
+ - Utilizing print statements for text and variable display
+ - Understanding string manipulation, indexing, and slicing in Python
+ - Ensuring code conformity with pycodestyle
 ---
 ## Overview
 This repository encompasses hands-on Python programming fundamentals, covering a range of tasks:
