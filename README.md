@@ -1,7 +1,7 @@
 # alx-higher_level_programming
 ---
 ---
-<img src="img.jpg" width="100%" height="auto" alt="imgalx-higher_level_programming">
+<img src="img.jpg" width="100%" height="auto" alt="img">
 ---
 ---
 ## Subcourses in this Sprint
