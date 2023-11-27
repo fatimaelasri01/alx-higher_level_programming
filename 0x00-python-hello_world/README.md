@@ -39,9 +39,7 @@ The prototypes of all your functions should be included in your header file call
 ---
 ## File Descriptions
 ### Mandatory
-
----
-
+    ---
 ### 0-run:
  Runs a Python script stored in the $PYFILE environment variable.
 ### 1-run_inline:
@@ -65,9 +63,7 @@ Prints "The Zen of Python" by Tim Peters.
 ### 10-check_cycle.c:
 Checks if a singly linked list has a cycle.
 ### Advanced
-
----
-
+     ---
 ### 100-write.py:
  Prints a specific quote.
 ### 101-compile:
