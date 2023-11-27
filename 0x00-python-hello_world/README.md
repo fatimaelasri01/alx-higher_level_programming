@@ -1,21 +1,21 @@
-#0x00. Python - Hello, World
+# 0x00. Python - Hello, World
 ---
  -Exploring Python interpreter usage
  -Utilizing print statements for text and variable display
  -Understanding string manipulation, indexing, and slicing in Python
  -Ensuring code conformity with pycodestyle
 ---
-##Overview
+## Overview
 This repository encompasses hands-on Python programming fundamentals, covering a range of tasks:
 ---
-##Shell Scripts
+## Shell Scripts
  -Allowed editors: vi, vim, emacs
  -All your scripts will be tested on Ubuntu 20.04 LTS
  -All your scripts should be exactly two lines long (wc -l file should print 2)
  -All your files should end with a new line
  -The first line of all your files should be exactly #!/bin/bash
  -All your files must be executable
-##Python Scripts
+## Python Scripts
  -Allowed editors: vi, vim, emacs
  -All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
  -All your files should end with a new line
@@ -25,7 +25,7 @@ This repository encompasses hands-on Python programming fundamentals, covering a
  -Your code should use the pycodestyle (version 2.8.*)
  -All your files must be executable
 The length of your files will be tested using wc
-##C Scripts
+## C Scripts
  -Allowed editors: vi, vim, emacs
  -All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
  -All your files should end with a new line
@@ -37,36 +37,36 @@ The prototypes of all your functions should be included in your header file call
  -Don’t forget to push your header file
  -All your header files should be include guarded
 ---
-##File Descriptions
-###Mandatory
+## File Descriptions
+### Mandatory
 ---
-###0-run:
+### 0-run:
  Runs a Python script stored in the $PYFILE environment variable.
-###1-run_inline:
+### 1-run_inline:
 Executes Python code stored in the $PYCODE environment variable.
-###2-print.py:
+### 2-print.py:
 Prints "Programming is like building a multilingual puzzle".
-###3-print_number.py:
+### 3-print_number.py:
 Prints an integer stored in a variable followed by "Battery street".
-###4-print_float.py:
+### 4-print_float.py:
 Prints a float with a precision of 2 digits.
-###5-print_string.py:
+### 5-print_string.py:
 Prints a string 3 times followed by its first 9 characters.
-###6-concat.py:
+### 6-concat.py:
 Prints Welcome to Holberton School!
-###7-edges.py:
+### 7-edges.py:
 Manipulates a word string without loops or conditionals.
-###8-concat_edges.py:
+### 8-concat_edges.py:
 Prints a specific string without loops or conditionals in 5 lines.
-###9-easter_egg.py:
+### 9-easter_egg.py:
 Prints "The Zen of Python" by Tim Peters.
-###10-check_cycle.c:
+### 10-check_cycle.c:
 Checks if a singly linked list has a cycle.
-###Advanced
+### Advanced
 ---
-###100-write.py:
+### 100-write.py:
  Prints a specific quote.
-###101-compile:
+### 101-compile:
  Compiles a Python script file.
-###102-magic_calculation.py:
+### 102-magic_calculation.py:
  Python function performing operations equivalent to specific bytecode.
