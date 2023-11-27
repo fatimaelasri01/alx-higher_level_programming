@@ -6,7 +6,7 @@
  - Ensuring code conformity with pycodestyle
 ---
 ## Overview
-   This repository encompasses hands-on Python programming fundamentals, covering a range of tasks:
+    This repository encompasses hands-on Python programming fundamentals, covering a range of tasks:
 ---
 ## Shell Scripts
  - Allowed editors: vi, vim, emacs
