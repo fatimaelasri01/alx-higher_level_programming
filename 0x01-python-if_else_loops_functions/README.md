@@ -5,23 +5,23 @@ this project was dedicated to exploring the fundamentals of if/else statements, 
 # Tasks 
 ---
 
-###0-positive_or_negative.py:
+### 0-positive_or_negative.py:
   determines whether a number is positive, zero, or negative.
-###1-last_digit.py:
+### 1-last_digit.py:
   prints the last digit of a randomly generated number.
-###2-print_alphabet.py:
+### 2-print_alphabet.py:
   displays the lowercase ASCII alphabet.
-###3-print_alphabt.py:
+### 3-print_alphabt.py:
   exhibits the lowercase ASCII alphabet, omitting q and e.
-###4-print_hexa.py:
+### 4-print_hexa.py:
   showcases numbers from 0 to 98 in both decimal and hexadecimal formats.
-###5-print_comb2.py:
+### 5-print_comb2.py:
   prints numbers from 0 to 99, separated by , .
-###6-print_comb3.py:
+### 6-print_comb3.py:
   displays all possible combinations of two digits, separated by , .
-###7-islower.py:
+### 7-islower.py:
   verifies if a character is in lowercase.
-###8-uppercase.py:
+### 8-uppercase.py:
   presents a string in uppercase.
 ### 9-print_last_digit.py:
   shows the last digit of a given number.
