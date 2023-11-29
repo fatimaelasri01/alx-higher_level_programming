@@ -25,11 +25,11 @@ this project was dedicated to exploring the fundamentals of if/else statements, 
   presents a string in uppercase.
 ### 9-print_last_digit.py:
   shows the last digit of a given number.
-###10-add.py:
+### 10-add.py:
   performs addition on two integers and returns the result.
-###11-pow.py:
+### 11-pow.py:
   calculates a raised to the power of b and returns the value.
-###12-fizzbuzz.py:
+### 12-fizzbuzz.py:
   generates the FizzBuzz pattern.
 ### 13-insert_number.c:
   inserts a node into a linked list based on a provided index.
@@ -37,5 +37,5 @@ this project was dedicated to exploring the fundamentals of if/else statements, 
   displays the ASCII alphabet in reverse, showcasing both uppercase and lowercase.
 ### 101-remove_char_at.py: 
   generates a duplicate of a string while removing the character at position 'n'
-###102-magic_calculation.py:
+### 102-magic_calculation.py:
   encapsulates a function replicating the functionality of a specified Python bytecode.
