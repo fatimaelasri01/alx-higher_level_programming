@@ -1,5 +1,7 @@
--- lists all shows from hbtn_0d_tvshows_rate by their rating
-SELECT title, SUM(rate) AS rating FROM tv_show_ratings
-INNER JOIN tv_shows ON show_id = id
-GROUP BY title
-ORDER BY rating DESC;
+-- Displays the 3 cities with the highest average, the temperatures between July and August
+SELECT city, AVG(value) AS avg_temp
+FROM temperatures
+WHERE month = 7 OR month = 8
+GROUP BY city
+ORDER BY avg_temp DESC
+LIMIT 3;
